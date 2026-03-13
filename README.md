@@ -134,6 +134,11 @@ openclaw gateway restart
 
 产品老李 - 给女儿做的 AI 家教
 
+## 📮 联系
+
+- 邮箱：global_2026@qq.com
+- 微信：xiaohuiing123
+
 ## 📄 许可
 
 MIT License
