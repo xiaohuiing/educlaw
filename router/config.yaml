@@ -26,15 +26,10 @@ agents:
     
   - id: "小数老师"
     file: "./math/agent.yaml"
-    free: false
-    price: "99元/年"
     
   - id: "小语老师"
     file: "./chinese/agent.yaml"
-    free: false
-    price: "99元/年"
     status: "coming_soon"  # 即将推出
-    contact: "微信：xxx"  # 联系获取全学科服务
 
 # 全局配置
 global:
